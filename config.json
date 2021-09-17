@@ -1,0 +1,9 @@
+{
+	"ip":"ThePogCrownSMP.aternos.me:46297",
+	"port": 25710,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register afkbot12345678910",
+	"login-cmd":"/login afkbot12345678910"
+}
